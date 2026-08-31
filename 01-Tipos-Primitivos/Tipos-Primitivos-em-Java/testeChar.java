@@ -1,4 +1,4 @@
-public class teste_char {
+public class testeChar {
 public static void main(String[] args) {
  char um = 'o';
  char dois = 'l';

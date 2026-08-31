@@ -1,4 +1,4 @@
-public class teste_double {
+public class testeDouble {
  public static void main(String[] args) {
     double a = 10.1;
     double b = 5.1;
