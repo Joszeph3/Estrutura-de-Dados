@@ -1,0 +1,15 @@
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\bin\Debug\net10.0\Teste_decimal.exe
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\bin\Debug\net10.0\Teste_decimal.deps.json
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\bin\Debug\net10.0\Teste_decimal.runtimeconfig.json
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\bin\Debug\net10.0\Teste_decimal.dll
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\bin\Debug\net10.0\Teste_decimal.pdb
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.AssemblyInfoInputs.cache
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.AssemblyInfo.cs
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.sourcelink.json
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.dll
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\refint\Teste_decimal.dll
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.pdb
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\Teste_decimal.genruntimeconfig.cache
+C:\Users\Pichau\Estrutura-de-Dados-1\01-Tipos-Primitivos\Tipos-Primitivos-em-C#\Teste_decimal\obj\Debug\net10.0\ref\Teste_decimal.dll
